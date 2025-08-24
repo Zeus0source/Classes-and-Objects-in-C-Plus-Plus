@@ -1,4 +1,4 @@
-# Aim:Expt 11	To study and implement Classes and Objects
+# Aim: To study and implement Classes and Objects
 # Software Requried;
 Visual Studio
 # Theory:
